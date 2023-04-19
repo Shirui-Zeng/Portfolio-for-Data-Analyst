@@ -11,13 +11,15 @@ I am a passionate and skilled data analyst with a strong background in statistic
 
 ### Project 1: 
 
-- **Project Description:** In this project, I analyzed sales data from an e-commerce company to identify trends, patterns, and opportunities for improving sales performance. I used Python for data cleaning, exploratory data analysis (EDA), and visualization to uncover insights and recommendations for the company.
+- **Project Description:** In this project, I analyzed Diabetes data with several body behaviour stats. I used Python for data cleaning; used scikit-learning to build a KNN model to fit the diabetes data, and evaluate model by fitting test output. 
 
-- **Code:** [Link to Project 1 Code](/projects/project1)
+- **Code:** [Link to Project KNN-Predict_Diabetes](/Portfolio-for-Data-Analyst/KNN-Predict Diabetes/KNN-Predict Diabetes.ipynb)
 
-- **Data:** [Link to Project 1 Data](/projects/project1/data)
+- **Data:** [Link to Project 1 Data](Portfolio-for-Data-Analyst/KNN-Predict Diabetes/diabetes.csv)
 
-- **Results:** [Link to Project 1 Results](/projects/project1/results)
+- **Results:** [Link to Project 1 Results](/Portfolio-for-Data-Analyst/KNN-Predict Diabetes/KNN-Predict Diabetes.ipynb)
+
+
 ## Technical Skills
 
 - Programming Languages: Python, SQL
