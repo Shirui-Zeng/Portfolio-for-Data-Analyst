@@ -13,11 +13,11 @@ I am a passionate and skilled data analyst with a strong background in statistic
 
 - **Project Description:** In this project, I analyzed Diabetes data with several body behaviour stats. I used Python for data cleaning; used scikit-learning to build a KNN model to fit the diabetes data, and evaluate model by fitting test output. 
 
-- **Code:** [Link to Project KNN-Predict_Diabetes code](/KNN-Predict Diabetes/KNN-Predict Diabetes.ipynb)
+- **Code:** [Link to Project KNN-Predict_Diabetes code](https://github.com/Shirui-Zeng/Portfolio-for-Data-Analyst/blob/e2be7ea0cba53f635d3f4ef22ff97f366ebb60dd/KNN-Predict%20Diabetes/KNN-Predict%20Diabetes.ipynb)
 
-- **Data:** [Link to Project 1 Data](/KNN-Predict Diabetes/diabetes.csv)
+- **Data:** [Link to Project 1 Data](https://github.com/Shirui-Zeng/Portfolio-for-Data-Analyst/blob/e2be7ea0cba53f635d3f4ef22ff97f366ebb60dd/KNN-Predict%20Diabetes/diabetes.csv)
 
-- **Results:** [Link to Project 1 Results](/KNN-Predict Diabetes/KNN-Predict Diabetes.ipynb)
+- **Results:** [Link to Project 1 Results](https://github.com/Shirui-Zeng/Portfolio-for-Data-Analyst/blob/e2be7ea0cba53f635d3f4ef22ff97f366ebb60dd/KNN-Predict%20Diabetes/KNN-Predict%20Diabetes.ipynb)
 
 
 ## Technical Skills
