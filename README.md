@@ -9,6 +9,15 @@ I am a passionate and skilled data analyst with a strong background in statistic
 
 ## Projects
 
+### Project 1: 
+
+- **Project Description:** In this project, I analyzed sales data from an e-commerce company to identify trends, patterns, and opportunities for improving sales performance. I used Python for data cleaning, exploratory data analysis (EDA), and visualization to uncover insights and recommendations for the company.
+
+- **Code:** [Link to Project 1 Code](/projects/project1)
+
+- **Data:** [Link to Project 1 Data](/projects/project1/data)
+
+- **Results:** [Link to Project 1 Results](/projects/project1/results)
 ## Technical Skills
 
 - Programming Languages: Python, SQL
