@@ -33,7 +33,7 @@ I am a passionate and skilled data analyst with a strong background in statistic
 
 ## Resume/CV
 
-Please find my updated resume [here](/CV Shirui Zeng.pdf) for more details on my education, experience, and skills.
+Please find my updated resume [here](Portfolio-for-Data-Analyst/CV Shirui Zeng.pdf) for more details on my education, experience, and skills.
 
 ## Contact Information
 
