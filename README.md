@@ -1,7 +1,7 @@
 # Portfolio-for-Data-Analyst
-Data projects and mini codings with Python.
+Data projects and mini codes with Python.
 
-Welcome to my portfolio repository for data analysis projects and mini codings! This repository showcases my skills, experience, and projects as a junior data analyst.
+Welcome to my portfolio repository for data analysis projects and mini codes! This repository showcases my skills, experience, and projects as a junior data analyst.
 
 ## About Me
 
@@ -13,7 +13,7 @@ I am a passionate and skilled data analyst with a strong background in statistic
 
 - **Project Description:** In this project, I analyzed Diabetes data with several body behaviour stats. I used Python for data cleaning; used scikit-learning to build a KNN model to fit the diabetes data, and evaluate model by fitting test output. 
 
-- **Code:** [Link to Project KNN-Predict_Diabetes](/KNN-Predict Diabetes/KNN-Predict Diabetes.ipynb)
+- **Code:** [Link to Project KNN-Predict_Diabetes code](/KNN-Predict Diabetes/KNN-Predict Diabetes.ipynb)
 
 - **Data:** [Link to Project 1 Data](/KNN-Predict Diabetes/diabetes.csv)
 
@@ -33,7 +33,7 @@ I am a passionate and skilled data analyst with a strong background in statistic
 
 ## Resume/CV
 
-Please find my updated resume [here](//CV Shirui Zeng.pdf) for more details on my education, experience, and skills.
+Please find my updated resume [here](/CV Shirui Zeng.pdf) for more details on my education, experience, and skills.
 
 ## Contact Information
 
